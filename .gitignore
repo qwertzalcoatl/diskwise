@@ -1,0 +1,4 @@
+/diskwise
+*.test
+*.out
+.DS_Store
